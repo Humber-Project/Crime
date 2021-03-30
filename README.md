@@ -1,10 +1,53 @@
-<center>
-<h2>My Name is Manuel</h2>
+--google-red-100-rgb: 244, 199, 195;
+    --google-red-100: rgb(var(--google-red-100-rgb));
+    --google-red-300-rgb: 230, 124, 115;
+    --google-red-300: rgb(var(--google-red-300-rgb));
+    --google-red-500-rgb: 219, 68, 55;
+    --google-red-500: rgb(var(--google-red-500-rgb));
+    --google-red-700-rgb: 197, 57, 41;
+    --google-red-700: rgb(var(--google-red-700-rgb));
+    --google-blue-100-rgb: 198, 218, 252;
+    --google-blue-100: rgb(var(--google-blue-100-rgb));
+    --google-blue-300-rgb: 123, 170, 247;
+    --google-blue-300: rgb(var(--google-blue-300-rgb));
+    --google-blue-500-rgb: 66, 133, 244;
+    --google-blue-500: rgb(var(--google-blue-500-rgb));
+    --google-blue-700-rgb: 51, 103, 214;
+    --google-blue-700: rgb(var(--google-blue-700-rgb));
+    --google-green-100-rgb: 183, 225, 205;
+    --google-green-100: rgb(var(--google-green-100-rgb));
+    --google-green-300-rgb: 87, 187, 138;
+    --google-green-300: rgb(var(--google-green-300-rgb));
+    --google-green-500-rgb: 15, 157, 88;
+    --google-green-500: rgb(var(--google-green-500-rgb));
+    --google-green-700-rgb: 11, 128, 67;
+    --google-green-700: rgb(var(--google-green-700-rgb));
+    --google-yellow-100-rgb: 252, 232, 178;
+    --google-yellow-100: rgb(var(--google-yellow-100-rgb));
+    --google-yellow-300-rgb: 247, 203, 77;
+    --google-yellow-300: rgb(var(--google-yellow-300-rgb));
+    --google-yellow-500-rgb: 244, 180, 0;
+    --google-yellow-500: rgb(var(--google-yellow-500-rgb));
+    --google-yellow-700-rgb: 240, 147, 0;
+    --google-yellow-700: rgb(var(--google-yellow-700-rgb));
+    --google-grey-100-rgb: 245, 245, 245;
+    --google-grey-100: rgb(var(--google-grey-100-rgb));
+    --google-grey-300-rgb: 224, 224, 224;
+    --google-grey-300: rgb(var(--google-grey-300-rgb));
+    --google-grey-500-rgb: 158, 158, 158;
+    --google-grey-500: rgb(var(--google-grey-500-rgb));
+    --google-grey-700-rgb: 97, 97, 97;
+    --google-grey-700: rgb(var(--google-grey-700-rgb));
+    --paper-red-50: #ffebee;
+    --paper-red-100: #ffcdd2;
+    --paper-red-200: #ef9a9a;
+    --paper-red-300: #e57373;
+    --paper-red-400: #ef5350;
+    --paper-red-500: #f44336;
+    --paper-red-600: #e53935;
+    --paper-red-700: #d32f2f;
+    --paper-red-800: #c62828;
+    --paper-red-900: #b71c1c;
 
-<body>
-<p>This project is about criminology</p>
-<p>I am Manuel and this is my website</p>
-</body>
 
 
-<ima src="capture.png">
